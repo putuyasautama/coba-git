@@ -27,8 +27,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 yasa
 
+<<<<<<< HEAD
 route(agus)
 
+=======
+rout)(yasa)
+>>>>>>> 5c9cfa9281e2bc2bde9484011bc3cf355f77246d
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
